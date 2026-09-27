@@ -334,6 +334,12 @@
         "key": "VIP-FOS KENZO",
         "expirydate": "15-06-2029",
         "Allowoffline": true
+    }, 
+    {
+        "device_id": "f7f76db1493d52f9",
+        "key": "VIP-FOS AYLE",
+        "expirydate": "15-06-2029",
+        "Allowoffline": true
     }
     
     
