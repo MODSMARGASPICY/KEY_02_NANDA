@@ -352,6 +352,12 @@
         "key": "VIP-FOS AZA",
         "expirydate": "15-06-2029",
         "Allowoffline": true
+    },
+    {
+        "device_id": "55d8f1e76da54f68",
+        "key": "VIP-FOS XAV",
+        "expirydate": "15-06-2029",
+        "Allowoffline": true
     }
     
     
