@@ -358,6 +358,12 @@
         "key": "VIP-FOS XAV",
         "expirydate": "15-06-2029",
         "Allowoffline": true
+    },
+    {
+        "device_id": "34bf74d827620c5d",
+        "key": "VIP-FOS ZUMI",
+        "expirydate": "15-06-2029",
+        "Allowoffline": true
     }
     
     
