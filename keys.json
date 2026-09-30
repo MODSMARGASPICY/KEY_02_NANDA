@@ -318,7 +318,7 @@
         "Allowoffline": true
     },
     {
-        "device_id": "70153237a738ebda",
+        "device_id": "70153237a73ebda",
         "key": "VIP-GAV KICAU",
         "expirydate": "15-06-2029",
         "Allowoffline": true
@@ -362,6 +362,12 @@
     {
         "device_id": "34bf74d827620c5d",
         "key": "VIP-FOS ZUMI",
+        "expirydate": "15-06-2029",
+        "Allowoffline": true
+    },
+    {
+        "device_id": "70153237a738ebda",
+        "key": "VIP-GAVV KICAU",
         "expirydate": "15-06-2029",
         "Allowoffline": true
     }
