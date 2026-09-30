@@ -318,8 +318,8 @@
         "Allowoffline": true
     },
     {
-        "device_id": "70153237a73ebda",
-        "key": "VIP-GAV KICAU",
+        "device_id": "8d474abbe02dd510",
+        "key": "VIP-AXEL",
         "expirydate": "15-06-2029",
         "Allowoffline": true
     },
@@ -368,6 +368,12 @@
     {
         "device_id": "70153237a738ebda",
         "key": "VIP-GAVV KICAU",
+        "expirydate": "15-06-2029",
+        "Allowoffline": true
+    },
+    {
+        "device_id": "1702b216153c6192",
+        "key": "VIP-ALE KICAU",
         "expirydate": "15-06-2029",
         "Allowoffline": true
     }
