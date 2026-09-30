@@ -376,6 +376,12 @@
         "key": "VIP-ALE KICAU",
         "expirydate": "15-06-2029",
         "Allowoffline": true
+    }, 
+    {
+        "device_id": "25396f35905e5da6",
+        "key": "VIP-MATHIAS",
+        "expirydate": "15-06-2029",
+        "Allowoffline": true
     }
     
     
